@@ -1,0 +1,24 @@
+body {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+/* Add Legend to dashboad */
+.legend {
+  background-color: white;
+  line-height: 1.5;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid #ccc;
+  position: absolute; /* Change to absolute positioning */
+  bottom: 10px;      /* Position it 10px from the bottom */
+  right: 10px;       /* Position it 10px from the right */
+  z-index: 1000;     /* Ensure it sits above the map */
+}

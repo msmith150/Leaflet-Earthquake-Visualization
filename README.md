@@ -1,4 +1,4 @@
-# 🌍 Leaflet Earthquake Visualization Challenge
+# 🌍 Leaflet Earthquake Visualization
 
 ## 📌 Project Overview
 
